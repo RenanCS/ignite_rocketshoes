@@ -70,6 +70,9 @@ $ yarn start
 ```
 ---
 
+## ❌Problemas encontrados
+* [How to prevent Netlify from treating warnings as errors because process.env.CI = true?](https://stackoverflow.com/questions/62415804/how-to-prevent-netlify-from-treating-warnings-as-errors-because-process-env-ci)
+
 
 ## 🛠 Tecnologias
 
